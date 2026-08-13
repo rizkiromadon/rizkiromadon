@@ -1,9 +1,14 @@
-### Rizki Romadon
+# Rizki Romadon
 
-Building things with Go and TypeScript.
+Hey, I like tinkering with tech & science 🙃
+Usually busy building things from backend to frontend 🇮🇩
 
-[tempcdn](https://github.com/rizkiromadon/tempcdn) — login-free file upload backend. Files land in Cloudflare R2, metadata in SQLite, everything auto-expires after 24 hours.
+---
 
-[tempcdn-frontend](https://github.com/rizkiromadon/tempcdn-frontend) — the interface for it, Next.js 14 + Tailwind.
+### GitHub Stats
 
-[rizkiromadon.eu.cc](https://rizkiromadon.eu.cc)
+
+
+### Connect
+
+[🌐 Website](https://rizkiromadon.eu.cc) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/rizkiromadon)
